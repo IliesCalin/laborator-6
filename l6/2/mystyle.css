@@ -1,0 +1,31 @@
+body {
+  background-color: linen;
+  cockor: orange
+}
+
+h1 {
+  color: maroon;
+  margin-left: 40px;
+  
+} 
+img {
+  opacity: 0.5;
+  margin: 70px;
+  border-radius: 25px;
+    background: #73AD21;
+    padding: 20px;
+    width: 200px;
+    height: 150px;
+}
+p {
+  color: red;
+  }
+  table {
+  width: 50%;
+}
+table, th, td {
+  border: 1px solid black;
+}
+ul {
+  background: #3399ff;
+  padding: 20px;
